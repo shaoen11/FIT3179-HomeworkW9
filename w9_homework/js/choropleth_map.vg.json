@@ -28,7 +28,7 @@
        "lookup": "properties.NAME",
        "from": {
          "data": {
-           "url": "https://raw.githubusercontent.com/shaoen11/FIT3179-Assignment-Project2/main/worldometer_coronavirus_summary_data.csv"
+           "url": "https://raw.githubusercontent.com/shaoen11/FIT3179-HomeworkW9/main/w9_homework/data/overall_summary.csv"
          },
          "key": "country",
          "fields": ["active_cases","total_confirmed", "population"]
